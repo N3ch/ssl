@@ -7,7 +7,10 @@ comando de compilado:
 
 ```
 gcc -std=c11 hello.c -o hello
+./hello > output.txt 2>&1
 ```
+
+![comandos usados](image.png)
 
 ### changelog
 4/4/2025 - agregada carpeta de tp0
